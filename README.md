@@ -6,12 +6,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Engineering Student (B.E / B.Tech)
-- 💻 Currently learning & building projects using React, Node.js & MongoDB
-- 🚀 Passionate about building full-stack web applications
-- 📚 Always learning new technologies
-- 📫 Reach me at: rajandobariya6@gmail.com
+## 👨‍💻 About Me
+
+- 🎓 Passionate Full-Stack Developer focused on the **MERN Stack**
+- 🚗 Currently building a **Car Marketplace Platform**
+- 🛠️ Interested in scalable architecture & clean backend design
+- 📚 Preparing for **MERN Developer roles**
+- 💡 Love building real-world projects
+
 
 ---
 ## 💻 Tech Stack:
