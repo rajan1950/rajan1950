@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajan Dobariya</h1>
 <h3 align="center">Full Stack MERN Developer | React & Node.js Enthusiast</h3>
 
+
+[![Profile views](https://komarev.com/ghpvc/?username=Rajandobariyaa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rajan1950)
+
 ---
 
 ### 👨‍💻 About Me
