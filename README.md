@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rajan Dobariya</h1>
+<h3 align="center">Full Stack MERN Developer | React & Node.js Enthusiast</h3>
 
-<!--
-**rajan1950/rajan1950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Engineering Student (B.E / B.Tech)
+- 💻 Currently learning & building projects using React, Node.js & MongoDB
+- 🚀 Passionate about building full-stack web applications
+- 📚 Always learning new technologies
+- 📫 Reach me at: your-email@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+- Frontend: React.js, JavaScript, HTML, CSS, Tailwind
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Postman
+
+---
+
+### 🔥 Featured Projects
+- 🛒 Car Scout (Full Stack Car Listing Platform)
+- 📦 REST API with Node & Express
+- 📝 Form Validation using React Hook Form
+- 🌍 Dependent Dropdown using JSON
+
+---
+
+### 📊 GitHub Stats
+![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajan1950&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+- LinkedIn: (Add your link)
+- Portfolio: (Add if available)
+
+---
+
+⭐️ “Code. Learn. Build. Improve.”
