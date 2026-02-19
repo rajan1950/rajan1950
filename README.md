@@ -58,4 +58,4 @@
 
 ---
 
-⭐️ “Code. Learn. Build. Improve.”
+⭐️ " Open to internships & full-time MERN Developer opportunities”
